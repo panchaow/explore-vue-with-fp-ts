@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "21712692",
+      "name": "success",
+      "font_class": "success",
+      "unicode": "e6b6",
+      "unicode_decimal": 59062
+    },
+    {
+      "icon_id": "21712695",
+      "name": "star-o",
+      "font_class": "star-o",
+      "unicode": "e6b7",
+      "unicode_decimal": 59063
+    },
+    {
+      "icon_id": "21712720",
+      "name": "star",
+      "font_class": "star",
+      "unicode": "e6ba",
+      "unicode_decimal": 59066
+    }
+  ]
+}
